@@ -9,7 +9,6 @@ This project aims to predict student performance based on various features like 
 
 ## Prerequisites
 Make sure you have the following software and libraries installed on your machine:
-- Python 3.x
 - Pandas
 - NumPy
 - Scikit-Learn
