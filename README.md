@@ -50,5 +50,17 @@ The `education.csv` dataset contains the following columns:
 ## Conclusion
 This project provides an in-depth analysis and prediction of student performance. It could be a useful tool for educators to understand their students better and take corrective measures accordingly.
 
+## Running the Dash Web Dashboard
+
+1. **Install Required Packages**: If you haven't already, install the necessary Python packages by running the following command in your terminal:
+    ```
+    pip install dash plotly
+    ```
+2. **Execute the Code**: Run the Python script or execute the Jupyter Notebook cell. This will initialize a local server for the Dash app.
+
+3. **View the Dashboard**: After running the script, you'll see a terminal output indicating that the server is running. Navigate to the URL provided in the terminal output to view the dashboard.
+
+By following these steps, you'll be able to explore the Student Performance Prediction Dashboard.
+
 ## References
 - The dataset was sourced from [Kaggle](https://www.kaggle.com/aljarah/xAPI-Edu-Data).
